@@ -1,0 +1,80 @@
+
+
+
+:root {
+  --background: #1313e5;
+  --foreground: #171717;
+    --color-dark: #1d1d1d;
+      --color-bg: #aba6f1;
+  --main: #eeeef3;
+  --blk: #131213;
+  --wht: #eaeaea;
+  --shadow-brand: -82px 54px 27px 0px rgba(0,0,0,0.01),
+  -52px 35px 25px 0px rgba(0,0,0,0.04),
+  -29px 19px 21px 0px rgba(0,0,0,0.15),
+  -13px 9px 16px 0px rgba(0,0,0,0.25),
+  -3px 2px 9px 0px rgba(0,0,0,0.29);
+
+  --shadow-border: 0px 2px 3px -1px rgba(0,0,0,0.1), 0px 1px 0px 0px rgba(25,28,33,0.02), 0px 0px 0px 1px rgba(25,28,33,0.08);
+  --shadow-depth: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+  --shadow-depth2: 0px 4px 16px rgba(17,17,26,0.1), 0px 8px 24px rgba(17,17,26,0.1), 0px 16px 56px rgba(17,17,26,0.1);
+  --shadow-depth3: 1.95px 1.95px 2.6px rgba(0, 0, 0, 0.15);
+  --shadow-small: 0 3px 10px rgb(0,0,0,0.2);
+  --shadow-small2: 0px 0px 0px 1px rgb(0 0 0 / 0.06),
+      0px 1px 1px -0.5px rgb(0 0 0 / 0.06),
+      0px 3px 3px -1.5px rgb(0 0 0 / 0.06), 
+      0px 6px 6px -3px rgb(0 0 0 / 0.06),
+      0px 12px 12px -6px rgb(0 0 0 / 0.06),
+      0px 24px 24px -12px rgb(0 0 0 / 0.06);
+}
+
+
+
+
+
+@font-face {
+  font-family: 'para';
+  font-weight: 400;
+  src: url('/fonts/para.otf') format('opentype');
+}
+
+
+@font-face {
+  font-family: 'heading';
+  font-weight: 400;
+  src: url('/fonts/heading.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'f1';
+  font-weight: 400;
+  src: url('/fonts/font1.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'f2';
+  font-weight: 400;
+  src: url('/fonts/font2.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'f3';
+  font-weight: 400;
+  src: url('/fonts/font3.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'signature';
+  font-weight: 100;
+  src: url('/fonts/signature.otf') format('opentype');
+}
+
+@font-face {
+  font-family: "screamer";
+
+  src: url("/fonts/screamer.ttf") format("truetype");}
+
+  @font-face {
+  font-family: "thunder";
+
+  src: url("/fonts/thunder.ttf") format("truetype");}
+
